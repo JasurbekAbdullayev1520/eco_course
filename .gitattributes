@@ -1,0 +1,2 @@
+*.pptx filter=lfs diff=lfs merge=lfs -text
+media/lectures/*.pptx filter=lfs diff=lfs merge=lfs -text
